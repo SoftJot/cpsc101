@@ -1,6 +1,5 @@
 /*
 Driver Program to access class Metric.java
-Testing File edit with CJ having it checked out.
  */
 
 package metrics;
