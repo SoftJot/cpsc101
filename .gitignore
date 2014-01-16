@@ -6,3 +6,4 @@
 *.ear
 /Metrics/nbproject/private/
 /Metrics/build/
+/Elevator/nbproject/private/
