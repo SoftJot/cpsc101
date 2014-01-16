@@ -1,8 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+This is the class file for the Elevator Program.
+*/
 
 package elevator;
 
@@ -13,13 +11,13 @@ package elevator;
 public class elevate {
     
     
-    /**
+/**
 Elevator Project
 
 - elevCurrentFloor	:int
 - elevCurrentPath	:int
 - pushBtnFloor		:int
-- extPush			:int
+- extPush		:int
 - buttonNumber		:int
 - buttonStop		:bool
 - buttonEmerg		:bool
@@ -42,21 +40,27 @@ Elevator Project
 	}
 	
 	public static void extButtonPush(){
+            
 	}
 	
 	public static int intButtonPush() {
+            
 	}
 	
 	public static int getBtnPushFloor() {
+            
 	}
 	
 	public static int getElevFloor() {
+            
 	}
 	
 	public static int getElevPath() {
+            
 	}
 	
 	public static int setElevPath() {
+            
 	}
 	
 	
