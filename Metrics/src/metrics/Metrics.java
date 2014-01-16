@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author chrisbotha
+ * @author chrisbotha /// added Cj Edwrds
  */
 public class Metrics {
 
