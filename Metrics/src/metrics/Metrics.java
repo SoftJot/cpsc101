@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Driver Program to access class Metric.java
  */
 
 package metrics;
@@ -25,6 +23,7 @@ public class Metrics {
     
     inp = JOptionPane.showInputDialog("Enter distance in miles.");
     miles = Double.parseDouble(inp);
+    //Cast to double to eliminate int input runtime error.
     kms = (double) Metric.milesToKm(miles);
     
     JOptionPane.showMessageDialog(null, "You converted " + inp + " miles to " 
