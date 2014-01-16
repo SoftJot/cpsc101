@@ -4,7 +4,7 @@ Driver Program to access class Metric.java
 
 package metrics;
 
-import javax.swing.JOptionPane;
+import javax.swing.JOptionPane;   // this is me checking out the file
 
 /**
  *
@@ -32,3 +32,4 @@ public class Metrics {
     }
 }
     
+// id like to add some moer UI elements to this, maybe change them aroujnf from default.
