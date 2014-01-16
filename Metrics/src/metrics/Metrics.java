@@ -1,6 +1,6 @@
 /*
 Driver Program to access class Metric.java
- */
+*/
 
 package metrics;
 
